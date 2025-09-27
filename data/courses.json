@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1759004077042,
+    "name": "CURSO OBLIGACIONES DE LOS AGENTES DE SEGUROS Y FIANZAS",
+    "module": "3",
+    "part": "",
+    "date": "2024-01-05",
+    "price": "8250"
+  },
+  {
+    "id": 1759004133842,
+    "name": "CURSO DESARROLLA HABILIDADES DE VENTA A TRAVÉS DE IMPULSO COMERCIAL",
+    "module": "3",
+    "part": "",
+    "date": "2024-01-12",
+    "price": "9680"
+  },
+  {
+    "id": 1759004191159,
+    "name": "CURSO VENTA DE SEGUROS DIFERENTES PLANES DE RETIRO",
+    "module": "1",
+    "part": "",
+    "date": "2023-11-29",
+    "price": "13610"
+  },
+  {
+    "id": 1759004279492,
+    "name": "CURSO DE HERRAMIENTAS PARA GENERAR CLIENTES POTENCIALES",
+    "module": "3",
+    "part": "",
+    "date": "2023-12-04",
+    "price": "13334"
+  },
+  {
+    "id": 1759004315727,
+    "name": "CURSO TIPS PARA IDENTIFICAR DAÑOS POR SINIESTROS",
+    "module": "2",
+    "part": "",
+    "date": "2023-12-11",
+    "price": "9890"
+  },
+  {
+    "id": 1759004378745,
+    "name": "CURSO COMO IDENTIFICAR ELECTRONICAMENTE AL CLIENTE",
+    "module": "1",
+    "part": "1",
+    "date": "2023-11-01",
+    "price": "11670"
+  },
+  {
+    "id": 1759004418095,
+    "name": "CURSO CREA TU IDENTIDAD Y MEJORA TUS VENTAS EN REDES SOCIALES",
+    "module": "1",
+    "part": "1",
+    "date": "2023-11-10",
+    "price": "11536"
+  },
+  {
+    "id": 1759004482211,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "1",
+    "date": "2023-09-27",
+    "price": "10528"
+  },
+  {
+    "id": 1759004511646,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "2",
+    "date": "2023-10-13",
+    "price": "10528"
+  },
+  {
+    "id": 1759004600410,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "7",
+    "part": "2",
+    "date": "2023-09-29",
+    "price": "11249"
+  },
+  {
+    "id": 1759004648009,
+    "name": "CURSO MARCO LEGAL",
+    "module": "8",
+    "part": "2",
+    "date": "2023-10-03",
+    "price": "9622"
+  },
+  {
+    "id": 1759004683194,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "5",
+    "part": "3",
+    "date": "2023-10-06",
+    "price": "8925"
+  },
+  {
+    "id": 1759004750746,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "5",
+    "part": "4",
+    "date": "2023-10-10",
+    "price": "8925"
+  },
+  {
+    "id": 1759004773828,
+    "name": "CURSO VENTAS DIGITALES",
+    "module": "1",
+    "part": "1",
+    "date": "2023-10-18",
+    "price": "7993"
+  },
+  {
+    "id": 1759004859504,
+    "name": "CURSO OBLIGACIONES FISCALES DE LOS AGENTES DE SEGUROS",
+    "module": "1",
+    "part": "",
+    "date": "",
+    "price": "12090"
+  },
+  {
+    "id": 1759004893713,
+    "name": "CURSO DE OBLIGACIONES DE LOS AGENTES DE SEGUROS Y FIANZAS",
+    "module": "2",
+    "part": "",
+    "date": "",
+    "price": "8250"
+  },
+  {
+    "id": 1759004939529,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "1",
+    "date": "2023-07-03",
+    "price": "8925"
+  },
+  {
+    "id": 1759004972762,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "2",
+    "date": "2023-07-17",
+    "price": "8925"
+  },
+  {
+    "id": 1759005011714,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "7",
+    "part": "1",
+    "date": "2023-05-26",
+    "price": "11249"
+  },
+  {
+    "id": 1759005048512,
+    "name": "CURSO DE EQUIPO Y MAQUINARIA PARA CONTRATISTA",
+    "module": "7",
+    "part": "2",
+    "date": "2023-06-09",
+    "price": "7605"
+  },
+  {
+    "id": 1759005081562,
+    "name": "CURSO SEGURO VIDA VANGUARDIA",
+    "module": "4",
+    "part": "2",
+    "date": "2023-05-29",
+    "price": "10865"
+  },
+  {
+    "id": 1759005106928,
+    "name": "CURSO MARCO LEGAL",
+    "module": "8",
+    "part": "1",
+    "date": "2023-06-15",
+    "price": "9622"
+  },
+  {
+    "id": 1759005166379,
+    "name": "CURSO VIDA VANGUARDIA",
+    "module": "4",
+    "part": "1",
+    "date": "2023-04-13",
+    "price": "10865"
+  },
+  {
+    "id": 1759005195562,
+    "name": "CURSO DE EQUIPO Y MAQUINARIA PARA CONTRATISTA",
+    "module": "7",
+    "part": "1",
+    "date": "2023-04-17",
+    "price": "7605"
+  },
+  {
+    "id": 1759005405564,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "1",
+    "date": "2023-03-03",
+    "price": "10865"
+  },
+  {
+    "id": 1759005446561,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "2",
+    "date": "2023-03-07",
+    "price": "10865"
+  },
+  {
+    "id": 1759005489429,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "1",
+    "date": "2023-02-24",
+    "price": "11545"
+  },
+  {
+    "id": 1759005522846,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "2",
+    "date": "2023-02-28",
+    "price": "11545"
+  },
+  {
+    "id": 1759005550947,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "1",
+    "date": "2023-03-10",
+    "price": "11450"
+  },
+  {
+    "id": 1759005590045,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "2",
+    "date": "2023-03-13",
+    "price": "11450"
+  },
+  {
+    "id": 1759005627045,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "1",
+    "date": "2023-03-17",
+    "price": "10865"
+  },
+  {
+    "id": 1759005648262,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "2",
+    "date": "2023-03-21",
+    "price": "10865"
+  },
+  {
+    "id": 1759005677629,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "1",
+    "date": "2023-03-24",
+    "price": "10865"
+  },
+  {
+    "id": 1759005695596,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "2",
+    "date": "2023-03-27",
+    "price": "10865"
+  },
+  {
+    "id": 1759005720347,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "1",
+    "date": "2023-03-31",
+    "price": "10125"
+  },
+  {
+    "id": 1759005759279,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARUA",
+    "module": "5",
+    "part": "2",
+    "date": "2023-04-03",
+    "price": "10125"
+  },
+  {
+    "id": 1759005803722,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "1",
+    "date": "2023-04-25",
+    "price": "10865"
+  },
+  {
+    "id": 1759005827670,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "2",
+    "date": "2023-04-10",
+    "price": "10865"
+  },
+  {
+    "id": 1759006000200,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "1",
+    "date": "2023-02-01",
+    "price": "10865"
+  },
+  {
+    "id": 1759006016732,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "2",
+    "date": "2023-02-08",
+    "price": "10865"
+  },
+  {
+    "id": 1759006055383,
+    "name": "CURSO PROGRAMA DE PREVENCION DE RIESGOS PARA SEGUROS DE EQUIPO PESADO",
+    "module": "2",
+    "part": "1",
+    "date": "2023-02-20",
+    "price": "9750"
+  },
+  {
+    "id": 1759006073015,
+    "name": "CURSO PROGRAMA DE PREVENCION DE RIESGOS PARA SEGUROS DE EQUIPO PESADO",
+    "module": "2",
+    "part": "2",
+    "date": "2023-02-27",
+    "price": "9750"
+  },
+  {
+    "id": 1759006125565,
+    "name": "CURSO DESARROLLA HABILIDADES DE VENTA A TRAVÉS DE IMPULSO COMERCIAL",
+    "module": "2",
+    "part": "1",
+    "date": "2023-02-17",
+    "price": "9680"
+  },
+  {
+    "id": 1759006144101,
+    "name": "CURSO DESARROLLA HABILIDADES DE VENTA A TRAVÉS DE IMPULSO COMERCIAL",
+    "module": "2",
+    "part": "2",
+    "date": "2023-02-24",
+    "price": "9680"
+  },
+  {
+    "id": 1759006203101,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "3",
+    "date": "2024-01-30",
+    "price": "10865"
+  },
+  {
+    "id": 1759006273383,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "4",
+    "date": "2024-01-31",
+    "price": "10865"
+  },
+  {
+    "id": 1759006315567,
+    "name": "CURSO PROGRAMA DE PREVENCION DE RIESGOS PARA SEGURO DE EQUIPO PESADO",
+    "module": "2",
+    "part": "3",
+    "date": "2024-02-06",
+    "price": "9750"
+  },
+  {
+    "id": 1759006331149,
+    "name": "CURSO PROGRAMA DE PREVENCION DE RIESGOS PARA SEGURO DE EQUIPO PESADO",
+    "module": "2",
+    "part": "4",
+    "date": "2024-02-07",
+    "price": "9750"
+  },
+  {
+    "id": 1759006374347,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "3",
+    "date": "2024-02-13",
+    "price": "10865"
+  },
+  {
+    "id": 1759006393798,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "4",
+    "date": "2024-02-16",
+    "price": "10865"
+  },
+  {
+    "id": 1759006429751,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "3",
+    "date": "2024-02-20",
+    "price": "11545"
+  },
+  {
+    "id": 1759006457031,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "4",
+    "date": "2024-02-23",
+    "price": "11545"
+  },
+  {
+    "id": 1759006510449,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "3",
+    "date": "2024-02-29",
+    "price": "11450"
+  },
+  {
+    "id": 1759006536316,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "4",
+    "date": "2024-03-05",
+    "price": "11450"
+  },
+  {
+    "id": 1759006578547,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "3",
+    "date": "2024-03-11",
+    "price": "10865"
+  },
+  {
+    "id": 1759006615632,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-03-15",
+    "price": "10865"
+  },
+  {
+    "id": 1759006644849,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "3",
+    "date": "2024-03-18",
+    "price": "10865"
+  },
+  {
+    "id": 1759006669464,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-03-22",
+    "price": "10865"
+  },
+  {
+    "id": 1759006704917,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "3",
+    "date": "2024-04-02",
+    "price": "10125"
+  },
+  {
+    "id": 1759006724032,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "4",
+    "date": "2024-04-05",
+    "price": "10125"
+  },
+  {
+    "id": 1759006755954,
+    "name": "CURSO SEGURO VIDA DOTAL:PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "3",
+    "date": "2024-04-09",
+    "price": "10865"
+  },
+  {
+    "id": 1759006786631,
+    "name": "CURSO SEGURO VIDA DOTAL:PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "4",
+    "date": "2024-04-12",
+    "price": "10865"
+  },
+  {
+    "id": 1759006873627,
+    "name": "CURSO ESTRATEGIAS JURIDICAS EN SEGUROS DE PROTECCION EMPRESARIAL",
+    "module": "2",
+    "part": "",
+    "date": "2024-03-08",
+    "price": "13841"
+  },
+  {
+    "id": 1759006901043,
+    "name": "ASESORIA EN OBLIGACIONES FISCALES DE LOS AGENTES DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2024-03-25",
+    "price": "12250"
+  },
+  {
+    "id": 1759006943910,
+    "name": "CURSO CREA TU IDENTIDAD Y MEJORA TUS VENTAS EN REDES SOCIALES",
+    "module": "2",
+    "part": "",
+    "date": "2024-03-29",
+    "price": "11536"
+  },
+  {
+    "id": 1759006998645,
+    "name": "CURSO MEDIOS ELECTRONICOS EN LA OPERACION Y COMERCIALIZACION DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2024-04-15",
+    "price": "15780"
+  },
+  {
+    "id": 1759007055944,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "3",
+    "date": "2024-04-30",
+    "price": "9815"
+  },
+  {
+    "id": 1759007095524,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-05-06",
+    "price": "9815"
+  },
+  {
+    "id": 1759007202241,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "7",
+    "part": "2",
+    "date": "2024-05-30",
+    "price": "11810"
+  },
+  {
+    "id": 1759007239790,
+    "name": "CURSO DE EQUIPO Y MAQUINARIA PARA CONTRATISTA",
+    "module": "7",
+    "part": "3",
+    "date": "2024-06-07",
+    "price": "8365"
+  },
+  {
+    "id": 1759007279956,
+    "name": "CURSO SEGURO VIDA VANGUARDIA",
+    "module": "4",
+    "part": "3",
+    "date": "2024-06-17",
+    "price": "11955"
+  },
+  {
+    "id": 1759007310424,
+    "name": "CURSO MARCO LEGAL",
+    "module": "8",
+    "part": "2",
+    "date": "2024-06-26",
+    "price": "10585"
+  },
+  {
+    "id": 1759007344722,
+    "name": "CURSO ESTRATEGIAS COMERCIALES PARA VENDER SEGUROS",
+    "module": "1",
+    "part": "1",
+    "date": "2024-07-01",
+    "price": "9890"
+  },
+  {
+    "id": 1759007369706,
+    "name": "CURSO MEJORA TU PRODUCTIVIDAD COMO AGENTES DE SEGUROS",
+    "module": "1",
+    "part": "1",
+    "date": "2024-07-12",
+    "price": "9250"
+  },
+  {
+    "id": 1759007397690,
+    "name": "CURSO LOS 3 SESGOS MAS COMUNES QUE DEBES VER EN TU CLIENTE",
+    "module": "1",
+    "part": "1",
+    "date": "2024-07-23",
+    "price": "9511"
+  },
+  {
+    "id": 1759007436921,
+    "name": "CURSO OBLIGACIONES FISCALES DE LOS AGENTES DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "",
+    "price": "14508"
+  },
+  {
+    "id": 1759007491404,
+    "name": "CURSO HERRAMIENTAS PARA GENERAR CLIENTES POTENCIALES",
+    "module": "4",
+    "part": "",
+    "date": "2023-09-02",
+    "price": "12750"
+  },
+  {
+    "id": 1759007515504,
+    "name": "CURSO PARA QUE SIRVE EL AVISO DE PRIVACIDAD",
+    "module": "1",
+    "part": "",
+    "date": "2023-09-19",
+    "price": "10565"
+  },
+  {
+    "id": 1759007554588,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "3",
+    "date": "2024-09-30",
+    "price": "11350"
+  },
+  {
+    "id": 1759007580322,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "4",
+    "date": "2024-10-09",
+    "price": "11350"
+  },
+  {
+    "id": 1759007603506,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "7",
+    "part": "3",
+    "date": "2024-10-14",
+    "price": "11920"
+  },
+  {
+    "id": 1759007640420,
+    "name": "CURSO MARCO LEGAL",
+    "module": "8",
+    "part": "3",
+    "date": "2024-10-18",
+    "price": "10585"
+  },
+  {
+    "id": 1759007677635,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-10-22",
+    "price": "9815"
+  },
+  {
+    "id": 1759007695720,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "5",
+    "part": "5",
+    "date": "2024-10-28",
+    "price": "9815"
+  },
+  {
+    "id": 1759007806617,
+    "name": "CURSO COMO IDENTIFICAR ELECTRONICAMENTE AL CLIENTE",
+    "module": "1",
+    "part": "2",
+    "date": "2024-11-01",
+    "price": "11670"
+  },
+  {
+    "id": 1759007833851,
+    "name": "CURSO CREA TU IDENTIDAD Y MEJORA TUS VENTAS EN REDES SOCIALES",
+    "module": "3",
+    "part": "",
+    "date": "2024-11-11",
+    "price": "11536"
+  },
+  {
+    "id": 1759007872734,
+    "name": "CURSO COMO VENDER SEGUROS CON PROPORCION INDEMNIZABLE",
+    "module": "1",
+    "part": "",
+    "date": "2024-11-20",
+    "price": "6910"
+  },
+  {
+    "id": 1759008053198,
+    "name": "CURSO VENTA DE SEGUROS VIDA DIFERENTES PLANES DE RETIRO",
+    "module": "2",
+    "part": "",
+    "date": "2024-12-02",
+    "price": "13610"
+  },
+  {
+    "id": 1759008075264,
+    "name": "CURSO HERRAMIENTAS PARA GENERAR CLIENTES POTENCIALES",
+    "module": "4",
+    "part": "",
+    "date": "2024-12-09",
+    "price": "13334"
+  },
+  {
+    "id": 1759008109448,
+    "name": "CURSO TIPS PARA IDENTIFICAR DAÑOS POR SINIESTROS",
+    "module": "3",
+    "part": "",
+    "date": "2024-12-16",
+    "price": "12370"
+  },
+  {
+    "id": 1759008144630,
+    "name": "CURSO OBLIGACIONES DE LOS AGENTES DE SEGUROS Y FIANZAS",
+    "module": "4",
+    "part": "",
+    "date": "",
+    "price": "9075"
+  },
+  {
+    "id": 1759008173147,
+    "name": "CURSO DESARROLLA HABILIDADES DE VENTA A TRAVÉS DE IMPULSO COMERCIAL",
+    "module": "4",
+    "part": "",
+    "date": "",
+    "price": "10650"
+  },
+  {
+    "id": 1759008209749,
+    "name": "CURSO LA GESTION DEL RECHAZO POR DISIMULACIONES O INEXACTAS DECLARACIONES AL DAR AVISO DEL SINIESTRO",
+    "module": "1",
+    "part": "",
+    "date": "",
+    "price": "6775"
+  },
+  {
+    "id": 1759008254863,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "3",
+    "date": "2024-01-20",
+    "price": "10865"
+  },
+  {
+    "id": 1759008271414,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "4",
+    "date": "2024-01-31",
+    "price": "10865"
+  },
+  {
+    "id": 1759008323212,
+    "name": "CURSO PROGRAMA DE PREVENCIÓN DE RIESGOS PARA SEGUROS DE EQUIPO PESADO",
+    "module": "2",
+    "part": "3",
+    "date": "2024-02-06",
+    "price": "9750"
+  },
+  {
+    "id": 1759008344298,
+    "name": "CURSO PROGRAMA DE PREVENCIÓN DE RIESGOS PARA SEGUROS DE EQUIPO PESADO",
+    "module": "2",
+    "part": "4",
+    "date": "2024-02-07",
+    "price": "9750"
+  },
+  {
+    "id": 1759008376598,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "3",
+    "date": "2024-02-13",
+    "price": "10865"
+  },
+  {
+    "id": 1759008397878,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "4",
+    "date": "2024-02-16",
+    "price": "10865"
+  },
+  {
+    "id": 1759008435413,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "3",
+    "date": "2024-02-20",
+    "price": "11545"
+  },
+  {
+    "id": 1759008464380,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "4",
+    "date": "2024-02-23",
+    "price": "11545"
+  },
+  {
+    "id": 1759008497913,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "3",
+    "date": "2024-02-29",
+    "price": "11450"
+  },
+  {
+    "id": 1759008548110,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "4",
+    "date": "2024-03-05",
+    "price": "11450"
+  },
+  {
+    "id": 1759008603743,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "3",
+    "date": "2024-03-11",
+    "price": "10865"
+  },
+  {
+    "id": 1759008627009,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-03-15",
+    "price": "10865"
+  },
+  {
+    "id": 1759008651878,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "3",
+    "date": "2024-03-18",
+    "price": "10865"
+  },
+  {
+    "id": 1759008677111,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2024-03-22",
+    "price": "10865"
+  },
+  {
+    "id": 1759008709116,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "4",
+    "date": "2024-04-02",
+    "price": "10125"
+  },
+  {
+    "id": 1759008730132,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "4",
+    "date": "2024-04-05",
+    "price": "10125"
+  },
+  {
+    "id": 1759008762016,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "3",
+    "date": "2024-04-09",
+    "price": "10865"
+  },
+  {
+    "id": 1759008775515,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "4",
+    "date": "2024-04-12",
+    "price": "10865"
+  },
+  {
+    "id": 1759008852849,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "4",
+    "date": "2025-01-30",
+    "price": "11565"
+  },
+  {
+    "id": 1759008886799,
+    "name": "CURSO PROGRAMA DE PREVENCIÓN DE RIESGOS PARA SEGUROS DE QUIPO PESADO",
+    "module": "2",
+    "part": "4",
+    "date": "2025-02-03",
+    "price": "10865"
+  },
+  {
+    "id": 1759008915164,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "4",
+    "date": "2025-02-07",
+    "price": "11565"
+  },
+  {
+    "id": 1759008943867,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "4",
+    "date": "2025-02-12",
+    "price": "11890"
+  },
+  {
+    "id": 1759008991948,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "4",
+    "date": "2025-02-18",
+    "price": "11790"
+  },
+  {
+    "id": 1759009022847,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2025-02-21",
+    "price": "11565"
+  },
+  {
+    "id": 1759009048747,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "4",
+    "date": "2025-02-26",
+    "price": "11565"
+  },
+  {
+    "id": 1759009092531,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "4",
+    "date": "2025-02-28",
+    "price": "10775"
+  },
+  {
+    "id": 1759009141182,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "4",
+    "date": "2025-03-03",
+    "price": "11565"
+  },
+  {
+    "id": 1759009173417,
+    "name": "CURSO HERRAMIENTAS PARA GENERAR CLIENTES POTENCIALES",
+    "module": "5",
+    "part": "",
+    "date": "2025-03-07",
+    "price": "13334"
+  },
+  {
+    "id": 1759009209447,
+    "name": "CURSO COMO IDENTIFICAR ELECTRONICAMENTE AL CLIENTE",
+    "module": "1",
+    "part": "3",
+    "date": "2025-03-12",
+    "price": "11921"
+  },
+  {
+    "id": 1759009249712,
+    "name": "CURSO MANEJO EFECTIVO DE LA VENTA",
+    "module": "4",
+    "part": "6",
+    "date": "2025-03-14",
+    "price": "11565"
+  },
+  {
+    "id": 1759009284396,
+    "name": "CURSO PROGRAMA DE PREVENCIÓN DE RIESGOS PARA SEGUROS DE EQUIPO PESADO",
+    "module": "2",
+    "part": "6",
+    "date": "2025-03-18",
+    "price": "10865"
+  },
+  {
+    "id": 1759009313130,
+    "name": "CURSO VIDA RETIRO ACTIVO",
+    "module": "8",
+    "part": "6",
+    "date": "2025-03-20",
+    "price": "11565"
+  },
+  {
+    "id": 1759009356549,
+    "name": "CURSO SEGURO ROBO DE MERCANCIAS",
+    "module": "7",
+    "part": "6",
+    "date": "2025-03-24",
+    "price": "11890"
+  },
+  {
+    "id": 1759009396179,
+    "name": "CURSO SEGURO GASTOS MEDICOS MAYORES",
+    "module": "7",
+    "part": "6",
+    "date": "2025-03-28",
+    "price": "11790"
+  },
+  {
+    "id": 1759009426180,
+    "name": "CURSO VIDA EDUCACIONAL",
+    "module": "5",
+    "part": "6",
+    "date": "2025-03-31",
+    "price": "11565"
+  },
+  {
+    "id": 1759009450561,
+    "name": "CURSO VIDA TRADICIONAL",
+    "module": "5",
+    "part": "6",
+    "date": "2025-04-01",
+    "price": "11565"
+  },
+  {
+    "id": 1759009484461,
+    "name": "CURSO SEGURO ROTURA DE MAQUINARIA",
+    "module": "5",
+    "part": "6",
+    "date": "2025-04-02",
+    "price": "10775"
+  },
+  {
+    "id": 1759009525146,
+    "name": "CURSO SEGURO VIDA DOTAL: PROTECCION Y AHORRO PARA EL FUTURO",
+    "module": "3",
+    "part": "6",
+    "date": "2025-04-09",
+    "price": "11565"
+  },
+  {
+    "id": 1759009554679,
+    "name": "CURSO HERRAMIENTAS PARA GENERAR CLIENTES POTENCIALES",
+    "module": "6",
+    "part": "",
+    "date": "2025-04-11",
+    "price": "13334"
+  },
+  {
+    "id": 1759009583328,
+    "name": "CURSO COMO IDENTIFICAR ELECTRONICAMENTE AL CLIENTE",
+    "module": "1",
+    "part": "4",
+    "date": "2025-04-14",
+    "price": "11921"
+  },
+  {
+    "id": 1759009618310,
+    "name": "CURSO MEDIOS ELECTRONICOS EN LA OPERACION Y COMERCIALIZACION DE SEGUROS",
+    "module": "3",
+    "part": "",
+    "date": "2025-04-16",
+    "price": "15780"
+  },
+  {
+    "id": 1759009650291,
+    "name": "CURSO ESTRATEGIAS COMERCIALES PARA VENDER SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2025-04-22",
+    "price": "11373"
+  },
+  {
+    "id": 1759009691963,
+    "name": "CURSO MEJORA TU PRODUCTIVIDAD COMO AGENTE DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2025-04-23",
+    "price": "10637"
+  },
+  {
+    "id": 1759009718246,
+    "name": "CURSO LOS 3 SESGOS MAS COMUNES QUE DEBES VER EN TUS CLIENTES",
+    "module": "2",
+    "part": "",
+    "date": "2025-04-24",
+    "price": "10937"
+  },
+  {
+    "id": 1759009740796,
+    "name": "CURSO PARA QUE SIRVE EL AVISO DE PRIVACIDAD",
+    "module": "2",
+    "part": "",
+    "date": "2025-04-28",
+    "price": "10565"
+  },
+  {
+    "id": 1759009771146,
+    "name": "CURSO ESTRATEGIAS JURIDICAS EN SEGUROS DE PROTECCION EMPRESARIAL",
+    "module": "3",
+    "part": "",
+    "date": "2025-05-02",
+    "price": "13841"
+  },
+  {
+    "id": 1759009818180,
+    "name": "CURSO CREA TU IDENTIDAD Y MEJORA TUS VENTAS EN REDES SOCIALES",
+    "module": "4",
+    "part": "",
+    "date": "2025-05-06",
+    "price": "15430"
+  },
+  {
+    "id": 1759009848449,
+    "name": "CURSO INDEMNIZACION POR MORA EN CONTRATOS DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2025-05-09",
+    "price": "11780"
+  },
+  {
+    "id": 1759009939962,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "5",
+    "date": "2025-04-29",
+    "price": "12080"
+  },
+  {
+    "id": 1759009959598,
+    "name": "CURSO RESPONSABILIDAD CIVIL GENERAL",
+    "module": "5",
+    "part": "6",
+    "date": "2025-05-05",
+    "price": "12080"
+  },
+  {
+    "id": 1759009994599,
+    "name": "CURSO MEDIOS ELECTRONICOS EN LA OPERACION Y COMERCIALIZACION DE SEGUROS",
+    "module": "3",
+    "part": "",
+    "date": "2025-04-15",
+    "price": "15780"
+  },
+  {
+    "id": 1759010042229,
+    "name": "CURSO ESTRATEGIA PARA EVALUAR RECHAZO POR DAÑO INFERIOR AL DEDUCIBLE DE TU SEGURO",
+    "module": "1",
+    "part": "",
+    "date": "2025-05-12",
+    "price": "9520"
+  },
+  {
+    "id": 1759010076580,
+    "name": "CURSO LA IMPORTANCIA DE REALIZAR UNA AUDITORIA DE POLIZAS DE SEGUROS",
+    "module": "1",
+    "part": "",
+    "date": "2025-05-16",
+    "price": "9520"
+  },
+  {
+    "id": 1759010112615,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "8",
+    "part": "2",
+    "date": "2025-05-30",
+    "price": "11810"
+  },
+  {
+    "id": 1759010142345,
+    "name": "CURSO DE EQUIPO Y MAQUINARIA PARA CONTRATISTA",
+    "module": "8",
+    "part": "3",
+    "date": "2025-06-06",
+    "price": "10432"
+  },
+  {
+    "id": 1759010164846,
+    "name": "CURSO SEGURO VIDA VANGUARDIA",
+    "module": "5",
+    "part": "3",
+    "date": "2025-06-11",
+    "price": "11955"
+  },
+  {
+    "id": 1759010184578,
+    "name": "CURSO MARCO LEGAL",
+    "module": "9",
+    "part": "2",
+    "date": "2025-06-20",
+    "price": "10585"
+  },
+  {
+    "id": 1759010229195,
+    "name": "CURSO MEJORA TU PRODUCTIVIDAD COMO AGENTE DE SEGUROS",
+    "module": "1",
+    "part": "2",
+    "date": "2025-06-30",
+    "price": "9250"
+  },
+  {
+    "id": 1759010257765,
+    "name": "CURSO ESTRATEGIAS COMERCIALES PARA VENDER SEGUROS",
+    "module": "3",
+    "part": "",
+    "date": "2025-05-11",
+    "price": "9890"
+  },
+  {
+    "id": 1759010292080,
+    "name": "CURSO OBLIGACIONES FISCALES DE LOS AGENTES DE SEGUROS",
+    "module": "3",
+    "part": "",
+    "date": "2025-07-31",
+    "price": "12090"
+  },
+  {
+    "id": 1759010334645,
+    "name": "CURSO LA IMPORTANCIA DE REALIZAR UNA AUDITORIA DE POLIZA DE SEGUROS",
+    "module": "2",
+    "part": "",
+    "date": "2025-08-28",
+    "price": "9520"
+  },
+  {
+    "id": 1759010355715,
+    "name": "CURSO COMO ELEGIR A TUS PROSPECTOS",
+    "module": "1",
+    "part": "",
+    "date": "2025-09-10",
+    "price": "7500"
+  },
+  {
+    "id": 1759010391346,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "5",
+    "date": "2025-09-27",
+    "price": "12485"
+  },
+  {
+    "id": 1759010407964,
+    "name": "CURSO SEGURO INCENDIO",
+    "module": "7",
+    "part": "6",
+    "date": "2025-09-29",
+    "price": "12485"
+  },
+  {
+    "id": 1759010434912,
+    "name": "CURSO SEGURO PERDIDAS CONSECUENCIALES",
+    "module": "8",
+    "part": "4",
+    "date": "2025-10-04",
+    "price": "13112"
+  },
+  {
+    "id": 1759010471430,
+    "name": "CURSO MARCO LEGAL",
+    "module": "8",
+    "part": "4",
+    "date": "2025-10-08",
+    "price": "12710"
+  },
+  {
+    "id": 1759010497628,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "6",
+    "part": "1",
+    "date": "2025-10-18",
+    "price": "12485"
+  },
+  {
+    "id": 1759010516765,
+    "name": "CURSO RESPONSABILIDAD CIVIL",
+    "module": "6",
+    "part": "2",
+    "date": "2025-10-20",
+    "price": "12485"
+  }
+]
