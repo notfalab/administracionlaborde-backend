@@ -9,7 +9,7 @@ const app = express();
 const PORT = 3000;
 
 // --- CONFIGURACIÓN DE SEGURIDAD ---
-const ADMIN_PASSWORD = 'adminlaborde2025'; 
+const ADMIN_PASSWORD = ''mimagno123''; 
 const AUTH_TOKEN = 'mimagno123';
 
 // URLs que tienen permiso para conectar.
